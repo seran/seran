@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin and Rust
-- 🔭 I’m currently working on Evolutionary Algorithms for Software Engineering
+- 🌱 I’m currently learning Kotlin, Rust, and Swift.
+- 🔭 I’m currently doing research on search-based software engineering and search-based security testing.
