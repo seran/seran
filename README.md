@@ -5,3 +5,7 @@
 - ☕️ I am currently learning several things! [Rust, Statistics, machine learning, iOS development, graphics programming, etc.]
 - 🔭 I’m currently doing research on fully automated search-based security testing for microservices. You can find the work [here](https://github.com/WebFuzzing/EvoMaster).
 - 🤙 Always open for collaborations. You are welcome to reach out to me via [LinkedIn](https://www.linkedin.com/in/sseran/).
+
+#### Current Project
+
+- Currently I am working on a vulnerable microservice-based software as security testing artifact. (soon to be released)
